@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Laravel 9 y TailwindCSS**
 
-- 👨‍💻 Puedes ver mi portfolio [dellpinos.com](dellpinos.com)
+- 👨‍💻 Puedes ver mi portfolio [dellpinos.com](dellpinos.com](https://dellpinos.com/)
 
 - 💬 Preguntame sobre **Js, PHP, SASS y mas**
 
