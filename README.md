@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellpinos&label=Profile%20views&color=0e75b6&style=flat" alt="dellpinos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellpinos" alt="dellpinos" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en mi proyecto [TusListas](tuslistas.dellpinos.com)
 
 - 🌱 Actualmente estoy aprendiendo **Laravel 9 y TailwindCSS**
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dellpinos&show_icons=true&locale=en&layout=compact" alt="dellpinos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dellpinos&show_icons=true&locale=en" alt="dellpinos" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dellpinos" alt="dellpinos" /></a> </p>
