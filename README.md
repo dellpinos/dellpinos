@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellpinos&label=Profile%20views&color=0e75b6&style=flat" alt="dellpinos" /> </p>
 
-- 🔭 Actualmente estoy trabajando en mi proyecto [TusListas](tuslistas.dellpinos.com)
+- 🔭 Actualmente estoy trabajando en mi proyecto [TusListas](https://tuslistas.dellpinos.com/)
 
 - 🌱 Actualmente estoy aprendiendo **Laravel 9 y TailwindCSS**
 
-- 👨‍💻 Puedes ver mi portfolio [dellpinos.com](dellpinos.com](https://dellpinos.com/)
+- 👨‍💻 Puedes ver mi portfolio [https://dellpinos.com/](https://dellpinos.com/)
 
 - 💬 Preguntame sobre **Js, PHP, SASS y mas**
 
