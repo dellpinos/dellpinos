@@ -12,6 +12,8 @@
 - 💬 Preguntame sobre **Js, PHP, SASS y mas**
 
 - 📫 Como contactarme **dellpinos7@gmail.com**
+  
+- ⚡️ **También hago fotografia, puedes pasar por mi Instagram 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
