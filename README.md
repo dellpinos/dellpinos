@@ -13,7 +13,7 @@
 
 - 📫 Como contactarme **dellpinos7@gmail.com**
   
-- ⚡️ **También soy fotógrafo, puedes pasar por mi Instagram 📸**
+- ⚡️ **También soy fotógrafo, podés pasar por mi Instagram 📸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
