@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en mi proyecto [TusListas](https://tuslistas.dellpinos.com/)
 
-- 🌱 Actualmente estoy aprendiendo **React con Next.Js y Remix**
+- 🌱 Actualmente estoy aprendiendo **React y Next.Js**
 
 - 👨‍💻 Puedes ver mi portfolio [https://dellpinos.com/](https://dellpinos.com/)
 
