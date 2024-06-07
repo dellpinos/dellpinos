@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Martin del Pino</h1>
+<h1 align="center">Hola 👋, soy Martín del Pino</h1>
 <h3 align="center">Soy un desarrollador Backend - Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellpinos&label=Profile%20views&color=0e75b6&style=flat" alt="dellpinos" /> </p>
