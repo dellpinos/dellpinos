@@ -9,7 +9,7 @@
 
 - 👨‍💻 Puedes ver mi portfolio [https://dellpinos.com/](https://dellpinos.com/)
 
-- 💬 Preguntame sobre **Laravel, Js, PHP, SASS y mas**
+- 💬 Preguntame sobre **Laravel, Js, PHP, SASS, Python, Django, TypeScript, React, MySQL, MongoDB y mas**
 
 - 📫 Como contactarme **dellpinos7@gmail.com**
   
